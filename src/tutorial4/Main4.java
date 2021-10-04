@@ -1,6 +1,5 @@
 package tutorial4;
 
-
 public class Main4 {
 
 	final static int INT_MAX = 2147483647;
@@ -12,7 +11,7 @@ public class Main4 {
 		int a = INT_MAX;
 		System.out.println(a+1);
 		
-		// (int 오버플로우 알아보기)
+		//
 		
 		
 	}
